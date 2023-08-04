@@ -1,1 +1,3 @@
-hey
+hii,
+this is my repository so,i am just trying to learn how to push code on GitHub or 
+ how to contribute on it
